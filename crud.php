@@ -2,7 +2,7 @@
 
 class Database {
 
-    private $db_host = 'localhost';
+    private $db_host = '192.168.0.10';
     private $db_user = 'root';
     private $db_pass = '123456';
     private $db_name = 'kursus';
